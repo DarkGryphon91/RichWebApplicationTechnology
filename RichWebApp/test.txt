@@ -1,0 +1,3 @@
+<h1>External File</h1><hr>
+<p>This is a test file to load into the page</p>
+<p>qwertyuio</p>
